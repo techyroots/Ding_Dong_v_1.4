@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389754554720",
+    "firebase_url": "https://ding-dong-f0cc2.firebaseio.com",
+    "project_id": "ding-dong-f0cc2",
+    "storage_bucket": "ding-dong-f0cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389754554720:android:fd919de883c6f952a97605",
+        "android_client_info": {
+          "package_name": "com.lighthusky.dingdong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389754554720-cfnb7rgjqucl0if6r2jdcloa5qcs9s8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC510jlZhSuTTFXLDJ5k0qO2e93jkHGeZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389754554720-cfnb7rgjqucl0if6r2jdcloa5qcs9s8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
